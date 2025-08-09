@@ -1,0 +1,1 @@
+Dashboard Access Test: PASS  – Redirected to login.php

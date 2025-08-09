@@ -1,0 +1,24 @@
+Registration Test: FAIL – Exception occurred: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7ba3ae925+77845]
+	GetHandleVerifier [0x0x7ff7ba3ae980+77936]
+	(No symbol) [0x0x7ff7ba169cda]
+	(No symbol) [0x0x7ff7ba155f35]
+	(No symbol) [0x0x7ff7ba17aabe]
+	(No symbol) [0x0x7ff7ba1efeb5]
+	(No symbol) [0x0x7ff7ba210432]
+	(No symbol) [0x0x7ff7ba1e86a3]
+	(No symbol) [0x0x7ff7ba1b1791]
+	(No symbol) [0x0x7ff7ba1b2523]
+	GetHandleVerifier [0x0x7ff7ba68683d+3059501]
+	GetHandleVerifier [0x0x7ff7ba680bfd+3035885]
+	GetHandleVerifier [0x0x7ff7ba6a03f0+3164896]
+	GetHandleVerifier [0x0x7ff7ba3c8c2e+185118]
+	GetHandleVerifier [0x0x7ff7ba3d053f+216111]
+	GetHandleVerifier [0x0x7ff7ba3b72d4+113092]
+	GetHandleVerifier [0x0x7ff7ba3b7489+113529]
+	GetHandleVerifier [0x0x7ff7ba39e288+10616]
+	BaseThreadInitThunk [0x0x7ff9074ee8d7+23]
+	RtlUserThreadStart [0x0x7ff90931c34c+44]

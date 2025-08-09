@@ -1,0 +1,1001 @@
+[19-Jul-2025 14:03:33 Europe/Berlin] Database connection successful
+[19-Jul-2025 14:03:33 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 14:03:33 Europe/Berlin] Logo file not found at: C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png
+[19-Jul-2025 14:03:33 Europe/Berlin] Signature file not found at: C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 14:03:33 Europe/Berlin] Empty PDF content generated for order ID 3
+[19-Jul-2025 14:04:19 Europe/Berlin] Database connection successful
+[19-Jul-2025 14:04:19 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 14:04:19 Europe/Berlin] Logo file not found at: C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png
+[19-Jul-2025 14:04:19 Europe/Berlin] PHP Warning:  include(C:\xampp\htdocs\saththar_feeds/font/helveticai.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saththar_feeds\fpdf.php on line 1137
+[19-Jul-2025 14:04:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\saththar_feeds/font/helveticai.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saththar_feeds\fpdf.php on line 1137
+[19-Jul-2025 14:04:19 Europe/Berlin] PDF generation error for order ID 3: FPDF error: Could not include font definition file: C:\xampp\htdocs\saththar_feeds/font/helveticai.php
+[19-Jul-2025 14:07:03 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 14:07:03 Europe/Berlin] Database connection successful
+[19-Jul-2025 14:07:03 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 14:07:03 Europe/Berlin] Logo file not found at: C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png
+[19-Jul-2025 14:07:03 Europe/Berlin] Signature file not found at: C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 14:07:03 Europe/Berlin] Empty PDF content generated for order ID 3
+[19-Jul-2025 14:09:26 Europe/Berlin] FPDF file missing at: C:\xampp\htdocs\saththar_feedsfpdf.php
+[19-Jul-2025 14:09:58 Europe/Berlin] DB connect file missing at: C:\xampp\htdocs\saththar_feedsdb_connect.php
+[19-Jul-2025 14:10:41 Europe/Berlin] DB connect file missing at: C:\xampp\htdocs\saththar_feedsdb_connect.php
+[19-Jul-2025 14:11:38 Europe/Berlin] DB connect file missing at: C:\xampp\htdocs\saththar_feedsdb_connect.php
+[19-Jul-2025 14:16:21 Europe/Berlin] DB connect file missing at: C:\xampp\htdocs\saththar_feedsdb_connect.php
+[19-Jul-2025 14:19:35 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 14:19:35 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png, Signature=C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 14:19:35 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 14:19:35 Europe/Berlin] Files included successfully
+[19-Jul-2025 14:19:35 Europe/Berlin] Database connection successful
+[19-Jul-2025 14:19:35 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 14:19:35 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 14:19:35 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 14:19:35 Europe/Berlin] Logo file not found at: C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png
+[19-Jul-2025 14:19:36 Europe/Berlin] Empty PDF content generated for order ID 3
+[19-Jul-2025 14:20:39 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 14:20:39 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png, Signature=C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 14:20:39 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 14:20:39 Europe/Berlin] Files included successfully
+[19-Jul-2025 14:20:39 Europe/Berlin] Database connection successful
+[19-Jul-2025 14:20:39 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 14:20:39 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 14:20:39 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 14:20:39 Europe/Berlin] Logo file not found at: C:\xampp\htdocs\saththar_feeds/assets/images/logo/Feed.png
+[19-Jul-2025 14:20:39 Europe/Berlin] Empty PDF content generated for order ID 3
+[19-Jul-2025 14:21:13 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 14:21:13 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/Fees.png, Signature=C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 14:21:13 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 14:21:13 Europe/Berlin] Files included successfully
+[19-Jul-2025 14:21:13 Europe/Berlin] Database connection successful
+[19-Jul-2025 14:21:13 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 14:21:13 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 14:21:13 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 14:21:13 Europe/Berlin] Logo file not found at: C:\xampp\htdocs\saththar_feeds/assets/images/logo/Feed.png
+[19-Jul-2025 14:21:13 Europe/Berlin] Empty PDF content generated for order ID 3
+[19-Jul-2025 14:28:54 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 14:28:54 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/Feed.png, Signature=C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 14:28:54 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 14:28:54 Europe/Berlin] Files included successfully
+[19-Jul-2025 14:28:54 Europe/Berlin] Database connection successful
+[19-Jul-2025 14:28:54 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 14:28:54 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 14:28:54 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 14:28:54 Europe/Berlin] Logo file not found at: C:\xampp\htdocs\saththar_feeds/assets/images/logo/Feed.png
+[19-Jul-2025 14:28:54 Europe/Berlin] Empty PDF content generated for order ID 3
+[19-Jul-2025 14:30:36 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 14:30:36 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feedsC:\xampp\htdocs\saththar_feeds\assets\images\logo\Feeds.png, Signature=C:\xampp\htdocs\saththar_feedsC:\xampp\htdocs\saththar_feeds\assets\images\logo\signature.png
+[19-Jul-2025 14:30:36 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 14:30:36 Europe/Berlin] Files included successfully
+[19-Jul-2025 14:30:36 Europe/Berlin] Database connection successful
+[19-Jul-2025 14:30:36 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 14:30:36 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 14:30:36 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 14:30:36 Europe/Berlin] Logo file not found at: C:\xampp\htdocs\saththar_feedsC:\xampp\htdocs\saththar_feeds\assets\images\logo\Feed.png
+[19-Jul-2025 14:30:36 Europe/Berlin] Signature file not found at: C:\xampp\htdocs\saththar_feedsC:\xampp\htdocs\saththar_feeds\assets\images\logo\signature.png
+[19-Jul-2025 14:30:36 Europe/Berlin] Empty PDF content generated for order ID 3
+[19-Jul-2025 14:38:23 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 14:38:23 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feedsC:\xampp\htdocs\saththar_feeds\assets\images\logo\Feeds.png, Signature=C:\xampp\htdocs\saththar_feedsC:\xampp\htdocs\saththar_feeds\assets\images\logo\signature.png
+[19-Jul-2025 14:38:23 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 14:38:23 Europe/Berlin] Files included successfully
+[19-Jul-2025 14:38:23 Europe/Berlin] Database connection successful
+[19-Jul-2025 14:38:23 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 14:38:23 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 14:38:23 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 14:38:23 Europe/Berlin] Logo file not found at: C:\xampp\htdocs\saththar_feedsC:\xampp\htdocs\saththar_feeds\assets\images\logo\Feed.png
+[19-Jul-2025 14:38:23 Europe/Berlin] Signature file not found at: C:\xampp\htdocs\saththar_feedsC:\xampp\htdocs\saththar_feeds\assets\images\logo\signature.png
+[19-Jul-2025 14:38:23 Europe/Berlin] Empty PDF content generated for order ID 3
+[19-Jul-2025 14:38:53 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 14:38:53 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png, Signature=C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 14:38:53 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 14:38:53 Europe/Berlin] Files included successfully
+[19-Jul-2025 14:38:53 Europe/Berlin] Database connection successful
+[19-Jul-2025 14:38:53 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 14:38:53 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 14:38:53 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 14:38:53 Europe/Berlin] PDF generated successfully for order ID 3, base64 length: 201052
+[19-Jul-2025 14:38:53 Europe/Berlin] Notification inserted for user_id 2
+[19-Jul-2025 14:41:46 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 14:41:46 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png, Signature=C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 14:41:46 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 14:41:46 Europe/Berlin] Files included successfully
+[19-Jul-2025 14:41:46 Europe/Berlin] Database connection successful
+[19-Jul-2025 14:41:46 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 14:41:46 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 14:41:46 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 14:41:46 Europe/Berlin] PDF generated successfully for order ID 3, base64 length: 201052
+[19-Jul-2025 14:41:46 Europe/Berlin] Notification inserted for user_id 2
+[19-Jul-2025 15:01:01 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 15:01:01 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png, Signature=C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 15:01:01 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 15:01:01 Europe/Berlin] Files included successfully
+[19-Jul-2025 15:01:01 Europe/Berlin] Database connection successful
+[19-Jul-2025 15:01:01 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 15:01:01 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 15:01:01 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 15:01:01 Europe/Berlin] PDF generated successfully for order ID 3, base64 length: 149152
+[19-Jul-2025 15:01:01 Europe/Berlin] Notification inserted for user_id 2
+[19-Jul-2025 15:05:18 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 15:05:18 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png
+[19-Jul-2025 15:05:18 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 15:05:18 Europe/Berlin] Files included successfully
+[19-Jul-2025 15:05:18 Europe/Berlin] Database connection successful
+[19-Jul-2025 15:05:18 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 15:05:18 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 15:05:18 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 15:05:18 Europe/Berlin] PDF generated successfully for order ID 3, base64 length: 4152
+[19-Jul-2025 15:05:18 Europe/Berlin] Notification inserted for user_id 2
+[19-Jul-2025 15:08:25 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 15:08:25 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png, Signature=C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 15:08:25 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 15:08:25 Europe/Berlin] Files included successfully
+[19-Jul-2025 15:08:25 Europe/Berlin] Database connection successful
+[19-Jul-2025 15:08:25 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 15:08:25 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 15:08:25 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 15:08:25 Europe/Berlin] PDF generated successfully for order ID 3, base64 length: 149160
+[19-Jul-2025 15:08:25 Europe/Berlin] Notification inserted for user_id 2
+[19-Jul-2025 15:11:16 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 15:11:16 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png, Signature=C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 15:11:16 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 15:11:16 Europe/Berlin] Files included successfully
+[19-Jul-2025 15:11:16 Europe/Berlin] Database connection successful
+[19-Jul-2025 15:11:16 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 15:11:16 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 15:11:16 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 15:11:16 Europe/Berlin] PDF generated successfully for order ID 3, base64 length: 149012
+[19-Jul-2025 15:11:16 Europe/Berlin] Notification inserted for user_id 2
+[19-Jul-2025 15:56:17 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 15:56:17 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png, Signature=C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 15:56:17 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 15:56:17 Europe/Berlin] Files included successfully
+[19-Jul-2025 15:56:17 Europe/Berlin] Database connection successful
+[19-Jul-2025 15:56:17 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 15:56:17 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 15:56:17 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 15:56:18 Europe/Berlin] PDF generated successfully for order ID 3, base64 length: 149012
+[19-Jul-2025 15:56:18 Europe/Berlin] Notification inserted for user_id 2
+[19-Jul-2025 16:03:09 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 16:03:09 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 16:03:09 Europe/Berlin] Database connection successful
+[19-Jul-2025 16:03:09 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 16:03:09 Europe/Berlin] PDF generation complete. Length: 148948
+[19-Jul-2025 16:08:35 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 16:08:35 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 16:08:35 Europe/Berlin] Database connection successful
+[19-Jul-2025 16:08:35 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 16:08:35 Europe/Berlin] PDF generation complete. Length: 148948
+[19-Jul-2025 16:17:54 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 16:17:54 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 16:17:54 Europe/Berlin] Database connection successful
+[19-Jul-2025 16:17:54 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 16:17:54 Europe/Berlin] PDF generation complete. Length: 148956
+[19-Jul-2025 16:19:06 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 16:19:06 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 16:19:06 Europe/Berlin] Database connection successful
+[19-Jul-2025 16:19:06 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 16:19:06 Europe/Berlin] PDF generation complete. Length: 148948
+[19-Jul-2025 16:20:38 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 16:20:38 Europe/Berlin] Checking files: FPDF=C:\xampp\htdocs\saththar_feeds/fpdf.php, DB=C:\xampp\htdocs\saththar_feeds/db_connect.php, Logo=C:\xampp\htdocs\saththar_feeds/assets/images/logo/invoice_icon.png, Signature=C:\xampp\htdocs\saththar_feeds/assets/images/logo/signature.png
+[19-Jul-2025 16:20:38 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 16:20:38 Europe/Berlin] Files included successfully
+[19-Jul-2025 16:20:38 Europe/Berlin] Database connection successful
+[19-Jul-2025 16:20:38 Europe/Berlin] POST data: order_id=3, product_name=Vitamin ADE, amount=3000.00, customer_name=Basith
+[19-Jul-2025 16:20:38 Europe/Berlin] Order fetched for ID 3: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 16:20:38 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 16:20:38 Europe/Berlin] PDF generated successfully for order ID 3, base64 length: 149004
+[19-Jul-2025 16:20:38 Europe/Berlin] Notification inserted for user_id 2
+[19-Jul-2025 16:21:39 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 16:21:39 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 16:21:39 Europe/Berlin] Database connection successful
+[19-Jul-2025 16:21:39 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 16:21:39 Europe/Berlin] PDF generation complete. Length: 148948
+[19-Jul-2025 16:30:19 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 16:30:19 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 16:30:19 Europe/Berlin] Database connection successful
+[19-Jul-2025 16:30:19 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 16:30:19 Europe/Berlin] PDF generation complete. Length: 2904
+[19-Jul-2025 16:30:47 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 16:30:47 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 16:30:47 Europe/Berlin] Database connection successful
+[19-Jul-2025 16:30:47 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 16:30:47 Europe/Berlin] PDF generation complete. Length: 148948
+[19-Jul-2025 16:37:46 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 16:37:46 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 16:37:46 Europe/Berlin] Database connection successful
+[19-Jul-2025 16:37:46 Europe/Berlin] Starting PDF generation for order ID 3
+[19-Jul-2025 16:37:46 Europe/Berlin] PDF generation complete. Length: 148948
+[19-Jul-2025 16:54:21 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 16:54:21 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 16:54:21 Europe/Berlin] Database connection successful
+[19-Jul-2025 16:54:21 Europe/Berlin] PDF generation complete. Length: 148708
+[19-Jul-2025 17:09:15 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:09:15 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:09:15 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:09:15 Europe/Berlin] PDF generation complete. Length: 148708
+[19-Jul-2025 17:14:45 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:14:45 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:14:45 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:14:45 Europe/Berlin] PDF generation complete. Length: 148708
+[19-Jul-2025 17:17:44 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:17:44 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:17:44 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:17:44 Europe/Berlin] PDF generation complete. Length: 200860
+[19-Jul-2025 17:26:21 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:26:21 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:26:21 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:26:21 Europe/Berlin] PDF generation complete. Length: 200860
+[19-Jul-2025 17:30:09 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:30:09 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:30:09 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:30:09 Europe/Berlin] PDF generation complete. Length: 200980
+[19-Jul-2025 17:31:26 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:31:26 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:31:26 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:31:26 Europe/Berlin] PDF generation complete. Length: 200860
+[19-Jul-2025 17:31:43 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:31:43 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:31:43 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:31:44 Europe/Berlin] PDF generation complete. Length: 200860
+[19-Jul-2025 17:34:35 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:34:35 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:34:35 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:34:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 176
+[19-Jul-2025 17:34:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 178
+[19-Jul-2025 17:34:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 180
+[19-Jul-2025 17:34:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 182
+[19-Jul-2025 17:34:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 17:34:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[19-Jul-2025 17:34:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 236
+[19-Jul-2025 17:34:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[19-Jul-2025 17:34:36 Europe/Berlin] PDF generation complete. Length: 200936
+[19-Jul-2025 17:35:31 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:35:31 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:35:31 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:35:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 176
+[19-Jul-2025 17:35:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 178
+[19-Jul-2025 17:35:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 180
+[19-Jul-2025 17:35:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 182
+[19-Jul-2025 17:35:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 17:35:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[19-Jul-2025 17:35:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 236
+[19-Jul-2025 17:35:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[19-Jul-2025 17:35:31 Europe/Berlin] PDF generation complete. Length: 200936
+[19-Jul-2025 17:37:07 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:37:07 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:37:07 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:37:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 176
+[19-Jul-2025 17:37:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 178
+[19-Jul-2025 17:37:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 180
+[19-Jul-2025 17:37:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 182
+[19-Jul-2025 17:37:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 17:37:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[19-Jul-2025 17:37:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 236
+[19-Jul-2025 17:37:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[19-Jul-2025 17:37:07 Europe/Berlin] PDF generation complete. Length: 200940
+[19-Jul-2025 17:38:51 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:38:51 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:38:51 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:38:51 Europe/Berlin] PDF generation complete. Length: 200864
+[19-Jul-2025 17:39:49 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:39:49 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:39:49 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:39:49 Europe/Berlin] PDF generation complete. Length: 200868
+[19-Jul-2025 17:40:03 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:40:03 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:40:03 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:40:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 176
+[19-Jul-2025 17:40:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 178
+[19-Jul-2025 17:40:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 180
+[19-Jul-2025 17:40:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 182
+[19-Jul-2025 17:40:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 17:40:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[19-Jul-2025 17:40:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 236
+[19-Jul-2025 17:40:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[19-Jul-2025 17:40:03 Europe/Berlin] PDF generation complete. Length: 200944
+[19-Jul-2025 17:40:30 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:40:30 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:40:30 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:40:30 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 185
+[19-Jul-2025 17:40:30 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 187
+[19-Jul-2025 17:40:30 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 189
+[19-Jul-2025 17:40:30 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 191
+[19-Jul-2025 17:40:30 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 238
+[19-Jul-2025 17:40:30 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 244
+[19-Jul-2025 17:40:30 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 245
+[19-Jul-2025 17:40:30 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 297
+[19-Jul-2025 17:40:30 Europe/Berlin] PDF generation complete. Length: 200960
+[19-Jul-2025 17:40:40 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:40:40 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:40:40 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:40:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 185
+[19-Jul-2025 17:40:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 187
+[19-Jul-2025 17:40:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 189
+[19-Jul-2025 17:40:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 191
+[19-Jul-2025 17:40:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 238
+[19-Jul-2025 17:40:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 244
+[19-Jul-2025 17:40:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 245
+[19-Jul-2025 17:40:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 297
+[19-Jul-2025 17:40:40 Europe/Berlin] PDF generation complete. Length: 200940
+[19-Jul-2025 17:40:50 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:40:50 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:40:50 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:40:50 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 185
+[19-Jul-2025 17:40:50 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 187
+[19-Jul-2025 17:40:50 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 189
+[19-Jul-2025 17:40:50 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 191
+[19-Jul-2025 17:40:50 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 238
+[19-Jul-2025 17:40:50 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 244
+[19-Jul-2025 17:40:50 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 245
+[19-Jul-2025 17:40:50 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 297
+[19-Jul-2025 17:40:50 Europe/Berlin] PDF generation complete. Length: 200940
+[19-Jul-2025 17:44:07 Europe/Berlin] generate_bill.php started
+[19-Jul-2025 17:44:07 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:44:07 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:44:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 192
+[19-Jul-2025 17:44:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 194
+[19-Jul-2025 17:44:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 196
+[19-Jul-2025 17:44:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 198
+[19-Jul-2025 17:44:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 245
+[19-Jul-2025 17:44:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 251
+[19-Jul-2025 17:44:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 252
+[19-Jul-2025 17:44:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\saththar_feeds\generate_bill.php:299
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 299
+[19-Jul-2025 17:46:12 Europe/Berlin] generate_bill.php started at 2025-07-19 17:46:12
+[19-Jul-2025 17:46:12 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:46:12 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:46:12 Europe/Berlin] Order data: {"id":5,"customer_id":null,"customer_name":"Basith","product_id":3,"product_name":"Forage-Based Pellets","pet_type":"Cow","pet_age":"Heifer\/Young Bull (6\u201324 months)","quantity":1,"amount":"5500.00","status":"Approved","created_at":"2025-07-19 21:09:32","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 17:46:12 Europe/Berlin] Processed pet_age: 6–24 months
+[19-Jul-2025 17:46:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 218
+[19-Jul-2025 17:46:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 220
+[19-Jul-2025 17:46:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 222
+[19-Jul-2025 17:46:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 224
+[19-Jul-2025 17:46:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 271
+[19-Jul-2025 17:46:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 277
+[19-Jul-2025 17:46:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 17:46:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 330
+[19-Jul-2025 17:46:12 Europe/Berlin] PDF generation complete for order ID 5. Length: 200936
+[19-Jul-2025 17:46:12 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 17:47:27 Europe/Berlin] generate_bill.php started at 2025-07-19 17:47:27
+[19-Jul-2025 17:47:27 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:47:27 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:47:27 Europe/Berlin] Order data: {"id":4,"customer_id":null,"customer_name":"Basith","product_id":1,"product_name":"Calf Milk Replacer","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"4500.00","status":"Approved","created_at":"2025-07-19 17:32:21","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 17:47:27 Europe/Berlin] Processed pet_age: 0–6 months
+[19-Jul-2025 17:47:27 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 218
+[19-Jul-2025 17:47:27 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 220
+[19-Jul-2025 17:47:27 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 222
+[19-Jul-2025 17:47:27 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 224
+[19-Jul-2025 17:47:27 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 271
+[19-Jul-2025 17:47:28 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 277
+[19-Jul-2025 17:47:28 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 17:47:28 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 330
+[19-Jul-2025 17:47:28 Europe/Berlin] PDF generation complete for order ID 4. Length: 200936
+[19-Jul-2025 17:47:28 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 17:48:36 Europe/Berlin] generate_bill.php started at 2025-07-19 17:48:36
+[19-Jul-2025 17:48:36 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:48:36 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:48:36 Europe/Berlin] Order data: {"id":6,"customer_id":null,"customer_name":"aashik","product_id":7,"product_name":"Senior Cattle Pellets","pet_type":"Cow","pet_age":"Senior (8+ years)","quantity":1,"amount":"5800.00","status":"Approved","created_at":"2025-07-19 21:18:18","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 17:48:36 Europe/Berlin] Processed pet_age: 8+ years
+[19-Jul-2025 17:48:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 218
+[19-Jul-2025 17:48:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 220
+[19-Jul-2025 17:48:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 222
+[19-Jul-2025 17:48:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 224
+[19-Jul-2025 17:48:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 271
+[19-Jul-2025 17:48:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 277
+[19-Jul-2025 17:48:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 17:48:36 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 330
+[19-Jul-2025 17:48:36 Europe/Berlin] PDF generation complete for order ID 6. Length: 200936
+[19-Jul-2025 17:48:36 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 17:49:13 Europe/Berlin] generate_bill.php started at 2025-07-19 17:49:13
+[19-Jul-2025 17:49:13 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:49:13 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:49:13 Europe/Berlin] Order data: {"id":6,"customer_id":null,"customer_name":"aashik","product_id":7,"product_name":"Senior Cattle Pellets","pet_type":"Cow","pet_age":"Senior (8+ years)","quantity":1,"amount":"5800.00","status":"Approved","created_at":"2025-07-19 21:18:18","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 17:49:13 Europe/Berlin] Processed pet_age: (8+ years)
+[19-Jul-2025 17:49:13 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 17:49:13 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 17:49:13 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 17:49:13 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[19-Jul-2025 17:49:13 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 17:49:13 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[19-Jul-2025 17:49:13 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[19-Jul-2025 17:49:13 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[19-Jul-2025 17:49:13 Europe/Berlin] PDF generation complete for order ID 6. Length: 200944
+[19-Jul-2025 17:49:13 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 17:49:19 Europe/Berlin] generate_bill.php started at 2025-07-19 17:49:19
+[19-Jul-2025 17:49:19 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:49:19 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:49:19 Europe/Berlin] Order data: {"id":5,"customer_id":null,"customer_name":"Basith","product_id":3,"product_name":"Forage-Based Pellets","pet_type":"Cow","pet_age":"Heifer\/Young Bull (6\u201324 months)","quantity":1,"amount":"5500.00","status":"Approved","created_at":"2025-07-19 21:09:32","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 17:49:19 Europe/Berlin] Processed pet_age: (6–24 months)
+[19-Jul-2025 17:49:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 17:49:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 17:49:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 17:49:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[19-Jul-2025 17:49:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 17:49:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[19-Jul-2025 17:49:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[19-Jul-2025 17:49:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[19-Jul-2025 17:49:19 Europe/Berlin] PDF generation complete for order ID 5. Length: 200940
+[19-Jul-2025 17:49:19 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 17:49:24 Europe/Berlin] generate_bill.php started at 2025-07-19 17:49:24
+[19-Jul-2025 17:49:24 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:49:24 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:49:24 Europe/Berlin] Order data: {"id":4,"customer_id":null,"customer_name":"Basith","product_id":1,"product_name":"Calf Milk Replacer","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"4500.00","status":"Approved","created_at":"2025-07-19 17:32:21","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 17:49:24 Europe/Berlin] Processed pet_age: (0–6 months)
+[19-Jul-2025 17:49:24 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 17:49:24 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 17:49:24 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 17:49:24 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[19-Jul-2025 17:49:24 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 17:49:24 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[19-Jul-2025 17:49:24 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[19-Jul-2025 17:49:24 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[19-Jul-2025 17:49:24 Europe/Berlin] PDF generation complete for order ID 4. Length: 200940
+[19-Jul-2025 17:49:24 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 17:52:56 Europe/Berlin] generate_bill.php started at 2025-07-19 17:52:56
+[19-Jul-2025 17:52:56 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:52:56 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:52:56 Europe/Berlin] Order data: {"id":6,"customer_id":null,"customer_name":"aashik","product_id":7,"product_name":"Senior Cattle Pellets","pet_type":"Cow","pet_age":"Senior (8+ years)","quantity":1,"amount":"5800.00","status":"Approved","created_at":"2025-07-19 21:18:18","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 17:52:56 Europe/Berlin] Processed pet_age: 8+ years
+[19-Jul-2025 17:52:56 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 221
+[19-Jul-2025 17:52:56 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 223
+[19-Jul-2025 17:52:56 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 17:52:56 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 17:52:56 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 274
+[19-Jul-2025 17:52:56 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 280
+[19-Jul-2025 17:52:56 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 281
+[19-Jul-2025 17:52:56 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 333
+[19-Jul-2025 17:52:56 Europe/Berlin] PDF generation complete for order ID 6. Length: 200936
+[19-Jul-2025 17:52:57 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 17:53:01 Europe/Berlin] generate_bill.php started at 2025-07-19 17:53:01
+[19-Jul-2025 17:53:01 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:53:01 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:53:01 Europe/Berlin] Order data: {"id":5,"customer_id":null,"customer_name":"Basith","product_id":3,"product_name":"Forage-Based Pellets","pet_type":"Cow","pet_age":"Heifer\/Young Bull (6\u201324 months)","quantity":1,"amount":"5500.00","status":"Approved","created_at":"2025-07-19 21:09:32","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 17:53:01 Europe/Berlin] Processed pet_age: 6–24 months
+[19-Jul-2025 17:53:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 221
+[19-Jul-2025 17:53:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 223
+[19-Jul-2025 17:53:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 17:53:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 17:53:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 274
+[19-Jul-2025 17:53:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 280
+[19-Jul-2025 17:53:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 281
+[19-Jul-2025 17:53:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 333
+[19-Jul-2025 17:53:01 Europe/Berlin] PDF generation complete for order ID 5. Length: 200936
+[19-Jul-2025 17:53:01 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 17:53:14 Europe/Berlin] generate_bill.php started at 2025-07-19 17:53:14
+[19-Jul-2025 17:53:14 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:53:14 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:53:14 Europe/Berlin] Order data: {"id":6,"customer_id":null,"customer_name":"aashik","product_id":7,"product_name":"Senior Cattle Pellets","pet_type":"Cow","pet_age":"Senior (8+ years)","quantity":1,"amount":"5800.00","status":"Approved","created_at":"2025-07-19 21:18:18","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 17:53:14 Europe/Berlin] Processed pet_age: (8+ years)
+[19-Jul-2025 17:53:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 17:53:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 17:53:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 17:53:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[19-Jul-2025 17:53:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 17:53:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[19-Jul-2025 17:53:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[19-Jul-2025 17:53:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[19-Jul-2025 17:53:14 Europe/Berlin] PDF generation complete for order ID 6. Length: 200944
+[19-Jul-2025 17:53:14 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 17:53:20 Europe/Berlin] generate_bill.php started at 2025-07-19 17:53:20
+[19-Jul-2025 17:53:20 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:53:20 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:53:20 Europe/Berlin] Order data: {"id":5,"customer_id":null,"customer_name":"Basith","product_id":3,"product_name":"Forage-Based Pellets","pet_type":"Cow","pet_age":"Heifer\/Young Bull (6\u201324 months)","quantity":1,"amount":"5500.00","status":"Approved","created_at":"2025-07-19 21:09:32","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 17:53:20 Europe/Berlin] Processed pet_age: (6–24 months)
+[19-Jul-2025 17:53:20 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 17:53:20 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 17:53:20 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 17:53:20 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[19-Jul-2025 17:53:20 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 17:53:20 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[19-Jul-2025 17:53:20 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[19-Jul-2025 17:53:20 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[19-Jul-2025 17:53:20 Europe/Berlin] PDF generation complete for order ID 5. Length: 200940
+[19-Jul-2025 17:53:20 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 17:58:47 Europe/Berlin] generate_bill.php started at 2025-07-19 17:58:47
+[19-Jul-2025 17:58:47 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 17:58:47 Europe/Berlin] Database connection successful
+[19-Jul-2025 17:58:47 Europe/Berlin] Order data: {"id":6,"customer_id":null,"customer_name":"aashik","product_id":7,"product_name":"Senior Cattle Pellets","pet_type":"Cow","pet_age":"Senior (8+ years)","quantity":1,"amount":"5800.00","status":"Approved","created_at":"2025-07-19 21:18:18","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 17:58:47 Europe/Berlin] Processed pet_age: (8+ years)
+[19-Jul-2025 17:58:47 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 17:58:47 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 17:58:47 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 17:58:47 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[19-Jul-2025 17:58:47 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 17:58:47 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[19-Jul-2025 17:58:47 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[19-Jul-2025 17:58:47 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[19-Jul-2025 17:58:47 Europe/Berlin] PDF generation complete for order ID 6. Length: 200928
+[19-Jul-2025 17:58:47 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 18:00:34 Europe/Berlin] generate_bill.php started at 2025-07-19 18:00:34
+[19-Jul-2025 18:00:34 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 18:00:34 Europe/Berlin] Database connection successful
+[19-Jul-2025 18:00:34 Europe/Berlin] Order data: {"id":5,"customer_id":null,"customer_name":"Basith","product_id":3,"product_name":"Forage-Based Pellets","pet_type":"Cow","pet_age":"Heifer\/Young Bull (6\u201324 months)","quantity":1,"amount":"5500.00","status":"Approved","created_at":"2025-07-19 21:09:32","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 18:00:34 Europe/Berlin] Processed pet_age: (6–24 months)
+[19-Jul-2025 18:00:34 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 18:00:34 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 18:00:34 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 18:00:34 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[19-Jul-2025 18:00:34 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 18:00:34 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[19-Jul-2025 18:00:34 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[19-Jul-2025 18:00:34 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[19-Jul-2025 18:00:34 Europe/Berlin] PDF generation complete for order ID 5. Length: 200932
+[19-Jul-2025 18:00:34 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 18:01:19 Europe/Berlin] generate_bill.php started at 2025-07-19 18:01:19
+[19-Jul-2025 18:01:19 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 18:01:19 Europe/Berlin] Database connection successful
+[19-Jul-2025 18:01:19 Europe/Berlin] Order data: {"id":4,"customer_id":null,"customer_name":"Basith","product_id":1,"product_name":"Calf Milk Replacer","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"4500.00","status":"Approved","created_at":"2025-07-19 17:32:21","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 18:01:19 Europe/Berlin] Processed pet_age: (0–6 months)
+[19-Jul-2025 18:01:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 18:01:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 18:01:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 18:01:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[19-Jul-2025 18:01:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 18:01:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[19-Jul-2025 18:01:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[19-Jul-2025 18:01:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[19-Jul-2025 18:01:19 Europe/Berlin] PDF generation complete for order ID 4. Length: 200932
+[19-Jul-2025 18:01:19 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 18:01:42 Europe/Berlin] generate_bill.php started at 2025-07-19 18:01:42
+[19-Jul-2025 18:01:42 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 18:01:42 Europe/Berlin] Database connection successful
+[19-Jul-2025 18:01:42 Europe/Berlin] Order data: {"id":6,"customer_id":null,"customer_name":"aashik","product_id":7,"product_name":"Senior Cattle Pellets","pet_type":"Cow","pet_age":"Senior (8+ years)","quantity":1,"amount":"5800.00","status":"Approved","created_at":"2025-07-19 21:18:18","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 18:01:42 Europe/Berlin] Processed pet_age: (8+ years)
+[19-Jul-2025 18:01:42 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 18:01:42 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 18:01:42 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 18:01:42 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[19-Jul-2025 18:01:42 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 18:01:42 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[19-Jul-2025 18:01:42 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[19-Jul-2025 18:01:42 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[19-Jul-2025 18:01:42 Europe/Berlin] PDF generation complete for order ID 6. Length: 200932
+[19-Jul-2025 18:01:42 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 18:01:45 Europe/Berlin] generate_bill.php started at 2025-07-19 18:01:45
+[19-Jul-2025 18:01:45 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 18:01:45 Europe/Berlin] Database connection successful
+[19-Jul-2025 18:01:45 Europe/Berlin] Order data: {"id":6,"customer_id":null,"customer_name":"aashik","product_id":7,"product_name":"Senior Cattle Pellets","pet_type":"Cow","pet_age":"Senior (8+ years)","quantity":1,"amount":"5800.00","status":"Approved","created_at":"2025-07-19 21:18:18","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 18:01:45 Europe/Berlin] Processed pet_age: (8+ years)
+[19-Jul-2025 18:01:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 18:01:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 18:01:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 18:01:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[19-Jul-2025 18:01:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 18:01:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[19-Jul-2025 18:01:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[19-Jul-2025 18:01:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[19-Jul-2025 18:01:45 Europe/Berlin] PDF generation complete for order ID 6. Length: 200932
+[19-Jul-2025 18:01:45 Europe/Berlin] Notification inserted for user_id: 2
+[19-Jul-2025 18:03:03 Europe/Berlin] generate_bill.php started at 2025-07-19 18:03:03
+[19-Jul-2025 18:03:03 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[19-Jul-2025 18:03:03 Europe/Berlin] Database connection successful
+[19-Jul-2025 18:03:03 Europe/Berlin] Order data: {"id":6,"customer_id":null,"customer_name":"aashik","product_id":7,"product_name":"Senior Cattle Pellets","pet_type":"Cow","pet_age":"Senior (8+ years)","quantity":1,"amount":"5800.00","status":"Approved","created_at":"2025-07-19 21:18:18","email":null,"phone_number":null,"address":null}
+[19-Jul-2025 18:03:03 Europe/Berlin] Processed pet_age: (8+ years)
+[19-Jul-2025 18:03:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[19-Jul-2025 18:03:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[19-Jul-2025 18:03:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[19-Jul-2025 18:03:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[19-Jul-2025 18:03:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[19-Jul-2025 18:03:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[19-Jul-2025 18:03:03 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[19-Jul-2025 18:03:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[19-Jul-2025 18:03:04 Europe/Berlin] PDF generation complete for order ID 6. Length: 200932
+[19-Jul-2025 18:03:04 Europe/Berlin] Notification inserted for user_id: 2
+[20-Jul-2025 07:50:00 Europe/Berlin] generate_bill.php started at 2025-07-20 07:50:00
+[20-Jul-2025 07:50:00 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[20-Jul-2025 07:50:00 Europe/Berlin] Database connection successful
+[20-Jul-2025 07:50:00 Europe/Berlin] Order data: {"id":7,"customer_id":null,"customer_name":"aashik","product_id":38,"product_name":"Vitamin D3","pet_type":"Hen","pet_age":"Hen\/Rooster (5\u201324 months+)","quantity":1,"amount":"2500.00","status":"Approved","created_at":"2025-07-20 11:18:20","email":null,"phone_number":null,"address":null}
+[20-Jul-2025 07:50:00 Europe/Berlin] Processed pet_age: (5–24 months+)
+[20-Jul-2025 07:50:00 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[20-Jul-2025 07:50:00 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[20-Jul-2025 07:50:00 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[20-Jul-2025 07:50:00 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[20-Jul-2025 07:50:00 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[20-Jul-2025 07:50:00 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[20-Jul-2025 07:50:00 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[20-Jul-2025 07:50:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[20-Jul-2025 07:50:01 Europe/Berlin] PDF generation complete for order ID 7. Length: 200924
+[20-Jul-2025 07:50:01 Europe/Berlin] Notification inserted for user_id: 2
+[20-Jul-2025 09:54:41 Europe/Berlin] generate_bill.php started at 2025-07-20 09:54:41
+[20-Jul-2025 09:54:41 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[20-Jul-2025 09:54:41 Europe/Berlin] Database connection successful
+[20-Jul-2025 09:54:41 Europe/Berlin] Order data: {"id":7,"customer_id":null,"customer_name":"aashik","product_id":38,"product_name":"Vitamin D3","pet_type":"Hen","pet_age":"Hen\/Rooster (5\u201324 months+)","quantity":1,"amount":"2500.00","status":"Approved","created_at":"2025-07-20 11:18:20","email":null,"phone_number":null,"address":null}
+[20-Jul-2025 09:54:41 Europe/Berlin] Processed pet_age: (5–24 months+)
+[20-Jul-2025 09:54:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[20-Jul-2025 09:54:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[20-Jul-2025 09:54:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[20-Jul-2025 09:54:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[20-Jul-2025 09:54:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[20-Jul-2025 09:54:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[20-Jul-2025 09:54:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[20-Jul-2025 09:54:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[20-Jul-2025 09:54:41 Europe/Berlin] PDF generation complete for order ID 7. Length: 200924
+[20-Jul-2025 09:54:41 Europe/Berlin] Notification inserted for user_id: 2
+[20-Jul-2025 10:13:33 Europe/Berlin] generate_bill.php started at 2025-07-20 10:13:33
+[20-Jul-2025 10:13:33 Europe/Berlin] Database connection successful: 127.0.0.1, saththar_feeds_db
+[20-Jul-2025 10:13:33 Europe/Berlin] Database connection successful
+[20-Jul-2025 10:13:33 Europe/Berlin] Order data: {"id":8,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","status":"Approved","created_at":"2025-07-20 13:43:16","email":null,"phone_number":null,"address":null}
+[20-Jul-2025 10:13:33 Europe/Berlin] Processed pet_age: (0–6 months)
+[20-Jul-2025 10:13:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[20-Jul-2025 10:13:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[20-Jul-2025 10:13:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[20-Jul-2025 10:13:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[20-Jul-2025 10:13:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[20-Jul-2025 10:13:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[20-Jul-2025 10:13:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[20-Jul-2025 10:13:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[20-Jul-2025 10:13:33 Europe/Berlin] PDF generation complete for order ID 8. Length: 200924
+[20-Jul-2025 10:13:33 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 19:15:01 Europe/Berlin] generate_bill.php started at 2025-07-22 19:15:01
+[22-Jul-2025 19:15:01 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 19:15:01 Europe/Berlin] Database connection successful
+[22-Jul-2025 19:15:01 Europe/Berlin] Order data: {"id":17,"customer_id":null,"customer_name":"Basith","product_id":16,"product_name":"Lamb Milk Replacer","pet_type":"Sheep","pet_age":"Lamb (0\u20136 months)","quantity":2,"amount":"5000.00","status":"Approved","created_at":"2025-07-22 22:40:53","email":null,"phone_number":null,"address":null}
+[22-Jul-2025 19:15:01 Europe/Berlin] Processed pet_age: (0–6 months)
+[22-Jul-2025 19:15:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[22-Jul-2025 19:15:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[22-Jul-2025 19:15:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[22-Jul-2025 19:15:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[22-Jul-2025 19:15:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[22-Jul-2025 19:15:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[22-Jul-2025 19:15:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[22-Jul-2025 19:15:01 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[22-Jul-2025 19:15:01 Europe/Berlin] PDF generation complete for order ID 17. Length: 200940
+[22-Jul-2025 19:15:01 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 19:16:16 Europe/Berlin] generate_bill.php started at 2025-07-22 19:16:16
+[22-Jul-2025 19:16:16 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 19:16:16 Europe/Berlin] Database connection successful
+[22-Jul-2025 19:16:16 Europe/Berlin] Order data: {"id":8,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","status":"Approved","created_at":"2025-07-20 13:43:16","email":null,"phone_number":null,"address":null}
+[22-Jul-2025 19:16:16 Europe/Berlin] Processed pet_age: (0–6 months)
+[22-Jul-2025 19:16:16 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[22-Jul-2025 19:16:16 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[22-Jul-2025 19:16:16 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[22-Jul-2025 19:16:16 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[22-Jul-2025 19:16:16 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[22-Jul-2025 19:16:16 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[22-Jul-2025 19:16:16 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[22-Jul-2025 19:16:17 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[22-Jul-2025 19:16:17 Europe/Berlin] PDF generation complete for order ID 8. Length: 200924
+[22-Jul-2025 19:16:17 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 19:16:29 Europe/Berlin] generate_bill.php started at 2025-07-22 19:16:29
+[22-Jul-2025 19:16:29 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 19:16:29 Europe/Berlin] Database connection successful
+[22-Jul-2025 19:16:29 Europe/Berlin] Order data: {"id":3,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","status":"Approved","created_at":"2025-07-19 17:04:38","email":null,"phone_number":null,"address":null}
+[22-Jul-2025 19:16:29 Europe/Berlin] Processed pet_age: (0–6 months)
+[22-Jul-2025 19:16:29 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[22-Jul-2025 19:16:29 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[22-Jul-2025 19:16:29 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[22-Jul-2025 19:16:29 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[22-Jul-2025 19:16:29 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[22-Jul-2025 19:16:29 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[22-Jul-2025 19:16:29 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[22-Jul-2025 19:16:29 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[22-Jul-2025 19:16:29 Europe/Berlin] PDF generation complete for order ID 3. Length: 200924
+[22-Jul-2025 19:16:29 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 19:19:18 Europe/Berlin] generate_bill.php started at 2025-07-22 19:19:18
+[22-Jul-2025 19:19:18 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 19:19:18 Europe/Berlin] Database connection successful
+[22-Jul-2025 19:19:18 Europe/Berlin] Order data: {"id":17,"customer_id":null,"customer_name":"Basith","product_id":16,"product_name":"Lamb Milk Replacer","pet_type":"Sheep","pet_age":"Lamb (0\u20136 months)","quantity":2,"amount":"5000.00","status":"Approved","created_at":"2025-07-22 22:40:53","email":null,"phone_number":null,"address":null}
+[22-Jul-2025 19:19:18 Europe/Berlin] Processed pet_age: (0–6 months)
+[22-Jul-2025 19:19:18 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[22-Jul-2025 19:19:18 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[22-Jul-2025 19:19:18 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[22-Jul-2025 19:19:18 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[22-Jul-2025 19:19:18 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[22-Jul-2025 19:19:18 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[22-Jul-2025 19:19:18 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[22-Jul-2025 19:19:19 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[22-Jul-2025 19:19:19 Europe/Berlin] PDF generation complete for order ID 17. Length: 200940
+[22-Jul-2025 19:19:19 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 19:25:43 Europe/Berlin] generate_bill.php started at 2025-07-22 19:25:43
+[22-Jul-2025 19:25:43 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 19:25:43 Europe/Berlin] Database connection successful
+[22-Jul-2025 19:25:43 Europe/Berlin] Order data: {"id":8,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":"Cow","pet_age":"Calf (0\u20136 months)","quantity":1,"amount":"3000.00","status":"Approved","created_at":"2025-07-20 13:43:16","email":null,"phone_number":null,"address":null}
+[22-Jul-2025 19:25:43 Europe/Berlin] Processed pet_age: (0–6 months)
+[22-Jul-2025 19:25:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[22-Jul-2025 19:25:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[22-Jul-2025 19:25:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[22-Jul-2025 19:25:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[22-Jul-2025 19:25:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[22-Jul-2025 19:25:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[22-Jul-2025 19:25:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[22-Jul-2025 19:25:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[22-Jul-2025 19:25:43 Europe/Berlin] PDF generation complete for order ID 8. Length: 200924
+[22-Jul-2025 19:25:43 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 19:52:05 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 19:52:05 Europe/Berlin] Database connection successful
+[22-Jul-2025 19:52:05 Europe/Berlin] Unauthorized access attempt: No customer logged in
+[22-Jul-2025 19:52:25 Europe/Berlin] generate_bill.php started at 2025-07-22 19:52:25
+[22-Jul-2025 19:52:25 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 19:52:25 Europe/Berlin] Database connection successful
+[22-Jul-2025 19:52:25 Europe/Berlin] Order data: {"id":16,"customer_id":null,"customer_name":"Basith","product_id":8,"product_name":"Vitamin C","pet_type":"Cow","pet_age":"Senior (8+ years)","quantity":1,"amount":"1200.00","status":"Approved","created_at":"2025-07-22 22:40:07","email":null,"phone_number":null,"address":null}
+[22-Jul-2025 19:52:25 Europe/Berlin] Processed pet_age: (8+ years)
+[22-Jul-2025 19:52:25 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[22-Jul-2025 19:52:25 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[22-Jul-2025 19:52:25 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[22-Jul-2025 19:52:25 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[22-Jul-2025 19:52:25 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[22-Jul-2025 19:52:25 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[22-Jul-2025 19:52:25 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[22-Jul-2025 19:52:25 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[22-Jul-2025 19:52:25 Europe/Berlin] PDF generation complete for order ID 16. Length: 200920
+[22-Jul-2025 19:52:25 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 19:57:07 Europe/Berlin] generate_bill.php started at 2025-07-22 19:57:07
+[22-Jul-2025 19:57:07 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 19:57:07 Europe/Berlin] Database connection successful
+[22-Jul-2025 19:57:07 Europe/Berlin] Order data: {"id":16,"customer_id":null,"customer_name":"Basith","product_id":8,"product_name":"Vitamin C","pet_type":"Cow","pet_age":"Senior (8+ years)","quantity":1,"amount":"1200.00","status":"Approved","created_at":"2025-07-22 22:40:07","email":null,"phone_number":null,"address":null}
+[22-Jul-2025 19:57:07 Europe/Berlin] Processed pet_age: (8+ years)
+[22-Jul-2025 19:57:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[22-Jul-2025 19:57:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[22-Jul-2025 19:57:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[22-Jul-2025 19:57:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[22-Jul-2025 19:57:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[22-Jul-2025 19:57:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[22-Jul-2025 19:57:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[22-Jul-2025 19:57:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[22-Jul-2025 19:57:07 Europe/Berlin] PDF generation complete for order ID 16. Length: 200920
+[22-Jul-2025 19:57:07 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 20:06:35 Europe/Berlin] generate_bill.php started at 2025-07-22 20:06:35
+[22-Jul-2025 20:06:35 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:06:35 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:06:35 Europe/Berlin] Order data: {"id":16,"customer_id":null,"customer_name":"Basith","product_id":8,"product_name":"Vitamin C","pet_type":"Cow","pet_age":"Senior (8+ years)","quantity":1,"amount":"1200.00","status":"Approved","created_at":"2025-07-22 22:40:07","email":null,"phone_number":null,"address":null}
+[22-Jul-2025 20:06:35 Europe/Berlin] Processed pet_age: (8+ years)
+[22-Jul-2025 20:06:35 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 225
+[22-Jul-2025 20:06:35 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 227
+[22-Jul-2025 20:06:35 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[22-Jul-2025 20:06:35 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[22-Jul-2025 20:06:35 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 278
+[22-Jul-2025 20:06:35 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 284
+[22-Jul-2025 20:06:35 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 285
+[22-Jul-2025 20:06:35 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 337
+[22-Jul-2025 20:06:35 Europe/Berlin] PDF generation complete for order ID 16. Length: 200920
+[22-Jul-2025 20:06:35 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 20:08:45 Europe/Berlin] generate_bill.php started at 2025-07-22 20:08:45
+[22-Jul-2025 20:08:45 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:08:45 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:08:45 Europe/Berlin] Order data: {"id":17,"customer_id":null,"customer_name":"Basith","product_id":16,"product_name":"Lamb Milk Replacer","pet_type":"Sheep","pet_age":"Lamb (0\u20136 months)","quantity":2,"amount":"5000.00","status":"Approved","created_at":"2025-07-22 22:40:53","email":null,"phone_number":null,"address":null}
+[22-Jul-2025 20:08:45 Europe/Berlin] Processed pet_age: (0–6 months)
+[22-Jul-2025 20:08:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 229
+[22-Jul-2025 20:08:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 231
+[22-Jul-2025 20:08:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 233
+[22-Jul-2025 20:08:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[22-Jul-2025 20:08:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 282
+[22-Jul-2025 20:08:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[22-Jul-2025 20:08:45 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 289
+[22-Jul-2025 20:08:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\saththar_feeds\generate_bill.php:336
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 336
+[22-Jul-2025 20:14:14 Europe/Berlin] generate_bill.php started at 2025-07-22 20:14:14
+[22-Jul-2025 20:14:14 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:14:14 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:14:14 Europe/Berlin] Order data: {"id":17,"customer_id":null,"customer_name":"Basith","product_id":16,"product_name":"Lamb Milk Replacer","pet_type":"Sheep","pet_age":"Lamb (0\u20136 months)","quantity":2,"amount":"5000.00","status":"Approved","created_at":"2025-07-22 22:40:53","email":null,"phone_number":null,"address":null,"unit_price":"2500.00"}
+[22-Jul-2025 20:14:14 Europe/Berlin] Processed pet_age: (0–6 months)
+[22-Jul-2025 20:14:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[22-Jul-2025 20:14:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[22-Jul-2025 20:14:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[22-Jul-2025 20:14:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[22-Jul-2025 20:14:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[22-Jul-2025 20:14:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[22-Jul-2025 20:14:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[22-Jul-2025 20:14:14 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[22-Jul-2025 20:14:14 Europe/Berlin] PDF generation complete for order ID 17. Length: 200940
+[22-Jul-2025 20:14:14 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 20:15:21 Europe/Berlin] generate_bill.php started at 2025-07-22 20:15:21
+[22-Jul-2025 20:15:21 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:15:21 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:15:21 Europe/Berlin] Order data: {"id":23,"customer_id":null,"customer_name":"Basith","product_id":27,"product_name":"Alfalfa Pellets (Doeling\/Buckling) ","pet_type":"Goat","pet_age":"Doeling\/Buckling (6\u201312 months)","quantity":3,"amount":"5400.00","status":"Approved","created_at":"2025-07-22 23:45:03","email":null,"phone_number":null,"address":null,"unit_price":"1800.00"}
+[22-Jul-2025 20:15:21 Europe/Berlin] Input mismatch for Order ID 23. Expected: product_name=Alfalfa Pellets (Doeling/Buckling), amount=5400, customer_name=Basith. Got: {"id":23,"customer_id":null,"customer_name":"Basith","product_id":27,"product_name":"Alfalfa Pellets (Doeling\/Buckling) ","pet_type":"Goat","pet_age":"Doeling\/Buckling (6\u201312 months)","quantity":3,"amount":"5400.00","status":"Approved","created_at":"2025-07-22 23:45:03","email":null,"phone_number":null,"address":null,"unit_price":"1800.00"}
+[22-Jul-2025 20:15:26 Europe/Berlin] generate_bill.php started at 2025-07-22 20:15:26
+[22-Jul-2025 20:15:26 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:15:26 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:15:26 Europe/Berlin] Order data: {"id":23,"customer_id":null,"customer_name":"Basith","product_id":27,"product_name":"Alfalfa Pellets (Doeling\/Buckling) ","pet_type":"Goat","pet_age":"Doeling\/Buckling (6\u201312 months)","quantity":3,"amount":"5400.00","status":"Approved","created_at":"2025-07-22 23:45:03","email":null,"phone_number":null,"address":null,"unit_price":"1800.00"}
+[22-Jul-2025 20:15:26 Europe/Berlin] Input mismatch for Order ID 23. Expected: product_name=Alfalfa Pellets (Doeling/Buckling), amount=5400, customer_name=Basith. Got: {"id":23,"customer_id":null,"customer_name":"Basith","product_id":27,"product_name":"Alfalfa Pellets (Doeling\/Buckling) ","pet_type":"Goat","pet_age":"Doeling\/Buckling (6\u201312 months)","quantity":3,"amount":"5400.00","status":"Approved","created_at":"2025-07-22 23:45:03","email":null,"phone_number":null,"address":null,"unit_price":"1800.00"}
+[22-Jul-2025 20:16:10 Europe/Berlin] generate_bill.php started at 2025-07-22 20:16:10
+[22-Jul-2025 20:16:10 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:16:10 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:16:10 Europe/Berlin] Order data: {"id":21,"customer_id":null,"customer_name":"Basith","product_id":21,"product_name":"Vitamin B1","pet_type":"Sheep","pet_age":"Ewe\/Ram (1\u20136 years)","quantity":1,"amount":"1800.00","status":"Approved","created_at":"2025-07-22 23:37:20","email":null,"phone_number":null,"address":null,"unit_price":"1800.00"}
+[22-Jul-2025 20:16:10 Europe/Berlin] Processed pet_age: (1–6 years)
+[22-Jul-2025 20:16:10 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[22-Jul-2025 20:16:10 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[22-Jul-2025 20:16:10 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[22-Jul-2025 20:16:10 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[22-Jul-2025 20:16:10 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[22-Jul-2025 20:16:10 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[22-Jul-2025 20:16:10 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[22-Jul-2025 20:16:11 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[22-Jul-2025 20:16:11 Europe/Berlin] PDF generation complete for order ID 21. Length: 200924
+[22-Jul-2025 20:16:11 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 20:16:59 Europe/Berlin] generate_bill.php started at 2025-07-22 20:16:59
+[22-Jul-2025 20:16:59 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:16:59 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:16:59 Europe/Berlin] Order data: {"id":24,"customer_id":null,"customer_name":"Basith","product_id":36,"product_name":"Calcium","pet_type":"Hen","pet_age":"Pullet\/Cockerel (6\u201320 weeks)","quantity":2,"amount":"3000.00","status":"Approved","created_at":"2025-07-22 23:46:46","email":null,"phone_number":null,"address":null,"unit_price":"1500.00"}
+[22-Jul-2025 20:16:59 Europe/Berlin] Processed pet_age: (6–20 weeks)
+[22-Jul-2025 20:16:59 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[22-Jul-2025 20:16:59 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[22-Jul-2025 20:16:59 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[22-Jul-2025 20:16:59 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[22-Jul-2025 20:16:59 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[22-Jul-2025 20:16:59 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[22-Jul-2025 20:16:59 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[22-Jul-2025 20:16:59 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[22-Jul-2025 20:16:59 Europe/Berlin] PDF generation complete for order ID 24. Length: 200924
+[22-Jul-2025 20:16:59 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 20:23:40 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/get_orders.php
+[22-Jul-2025 20:23:40 Europe/Berlin] Error fetching orders: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'saththar_feeds_db.orders' doesn't exist
+[22-Jul-2025 20:24:01 Europe/Berlin] generate_bill.php started at 2025-07-22 20:24:01
+[22-Jul-2025 20:24:01 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:24:01 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:24:01 Europe/Berlin] Exception in generate_bill.php: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'saththar_feeds_db.orders' doesn't exist at line 73
+[22-Jul-2025 20:24:03 Europe/Berlin] generate_bill.php started at 2025-07-22 20:24:03
+[22-Jul-2025 20:24:03 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:24:03 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:24:03 Europe/Berlin] Exception in generate_bill.php: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'saththar_feeds_db.orders' doesn't exist at line 73
+[22-Jul-2025 20:24:04 Europe/Berlin] generate_bill.php started at 2025-07-22 20:24:04
+[22-Jul-2025 20:24:04 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:24:04 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:24:04 Europe/Berlin] Exception in generate_bill.php: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'saththar_feeds_db.orders' doesn't exist at line 73
+[22-Jul-2025 20:24:28 Europe/Berlin] generate_bill.php started at 2025-07-22 20:24:28
+[22-Jul-2025 20:24:28 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:24:28 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:24:28 Europe/Berlin] Order data: {"id":24,"customer_id":null,"customer_name":"Basith","product_id":36,"product_name":"Calcium","pet_type":"Hen","pet_age":"Pullet\/Cockerel (6\u201320 weeks)","quantity":2,"amount":"3000.00","status":"Approved","created_at":"2025-07-22 23:46:46","email":null,"phone_number":null,"address":null,"unit_price":"1500.00"}
+[22-Jul-2025 20:24:28 Europe/Berlin] Processed pet_age: (6–20 weeks)
+[22-Jul-2025 20:24:28 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[22-Jul-2025 20:24:28 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[22-Jul-2025 20:24:28 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[22-Jul-2025 20:24:28 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[22-Jul-2025 20:24:28 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[22-Jul-2025 20:24:28 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[22-Jul-2025 20:24:28 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[22-Jul-2025 20:24:28 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[22-Jul-2025 20:24:28 Europe/Berlin] PDF generation complete for order ID 24. Length: 200924
+[22-Jul-2025 20:24:28 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 20:24:36 Europe/Berlin] generate_bill.php started at 2025-07-22 20:24:36
+[22-Jul-2025 20:24:36 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:24:36 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:24:36 Europe/Berlin] Order data: {"id":23,"customer_id":null,"customer_name":"Basith","product_id":27,"product_name":"Alfalfa Pellets (Doeling\/Buckling) ","pet_type":"Goat","pet_age":"Doeling\/Buckling (6\u201312 months)","quantity":3,"amount":"5400.00","status":"Approved","created_at":"2025-07-22 23:45:03","email":null,"phone_number":null,"address":null,"unit_price":"1800.00"}
+[22-Jul-2025 20:24:36 Europe/Berlin] Input mismatch for Order ID 23. Expected: product_name=Alfalfa Pellets (Doeling/Buckling), amount=5400, customer_name=Basith. Got: {"id":23,"customer_id":null,"customer_name":"Basith","product_id":27,"product_name":"Alfalfa Pellets (Doeling\/Buckling) ","pet_type":"Goat","pet_age":"Doeling\/Buckling (6\u201312 months)","quantity":3,"amount":"5400.00","status":"Approved","created_at":"2025-07-22 23:45:03","email":null,"phone_number":null,"address":null,"unit_price":"1800.00"}
+[22-Jul-2025 20:25:07 Europe/Berlin] generate_bill.php started at 2025-07-22 20:25:07
+[22-Jul-2025 20:25:07 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:25:07 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:25:07 Europe/Berlin] Order data: {"id":21,"customer_id":null,"customer_name":"Basith","product_id":21,"product_name":"Vitamin B1","pet_type":"Sheep","pet_age":"Ewe\/Ram (1\u20136 years)","quantity":1,"amount":"1800.00","status":"Approved","created_at":"2025-07-22 23:37:20","email":null,"phone_number":null,"address":null,"unit_price":"1800.00"}
+[22-Jul-2025 20:25:07 Europe/Berlin] Processed pet_age: (1–6 years)
+[22-Jul-2025 20:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[22-Jul-2025 20:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[22-Jul-2025 20:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[22-Jul-2025 20:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[22-Jul-2025 20:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[22-Jul-2025 20:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[22-Jul-2025 20:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[22-Jul-2025 20:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[22-Jul-2025 20:25:07 Europe/Berlin] PDF generation complete for order ID 21. Length: 200924
+[22-Jul-2025 20:25:07 Europe/Berlin] Notification inserted for user_id: 2
+[22-Jul-2025 20:25:11 Europe/Berlin] generate_bill.php started at 2025-07-22 20:25:11
+[22-Jul-2025 20:25:11 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[22-Jul-2025 20:25:11 Europe/Berlin] Database connection successful
+[22-Jul-2025 20:25:11 Europe/Berlin] Order data: {"id":17,"customer_id":null,"customer_name":"Basith","product_id":16,"product_name":"Lamb Milk Replacer","pet_type":"Sheep","pet_age":"Lamb (0\u20136 months)","quantity":2,"amount":"5000.00","status":"Approved","created_at":"2025-07-22 22:40:53","email":null,"phone_number":null,"address":null,"unit_price":"2500.00"}
+[22-Jul-2025 20:25:11 Europe/Berlin] Processed pet_age: (0–6 months)
+[22-Jul-2025 20:25:11 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[22-Jul-2025 20:25:11 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[22-Jul-2025 20:25:11 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[22-Jul-2025 20:25:11 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[22-Jul-2025 20:25:11 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[22-Jul-2025 20:25:11 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[22-Jul-2025 20:25:11 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[22-Jul-2025 20:25:11 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[22-Jul-2025 20:25:11 Europe/Berlin] PDF generation complete for order ID 17. Length: 200940
+[22-Jul-2025 20:25:11 Europe/Berlin] Notification inserted for user_id: 2
+[23-Jul-2025 18:21:38 Europe/Berlin] generate_bill.php started at 2025-07-23 18:21:38
+[23-Jul-2025 18:21:38 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[23-Jul-2025 18:21:38 Europe/Berlin] Database connection successful
+[23-Jul-2025 18:21:38 Europe/Berlin] Order data: {"id":27,"customer_id":null,"customer_name":"Basith","product_id":2,"product_name":"Vitamin ADE","pet_type":null,"pet_age":null,"quantity":1,"amount":"0.00","status":"Approved","created_at":"2025-07-23 21:50:36","email":null,"phone_number":null,"address":null,"unit_price":"3000.00"}
+[23-Jul-2025 18:21:38 Europe/Berlin] Processed pet_age: (N/A)
+[23-Jul-2025 18:21:38 Europe/Berlin] Amount mismatch for Order ID 27. Calculated: 3000, Stored: 0.00
+[23-Jul-2025 18:21:41 Europe/Berlin] generate_bill.php started at 2025-07-23 18:21:41
+[23-Jul-2025 18:21:41 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[23-Jul-2025 18:21:41 Europe/Berlin] Database connection successful
+[23-Jul-2025 18:21:41 Europe/Berlin] Order data: {"id":24,"customer_id":null,"customer_name":"Basith","product_id":36,"product_name":"Calcium","pet_type":"Hen","pet_age":"Pullet\/Cockerel (6\u201320 weeks)","quantity":2,"amount":"3000.00","status":"Approved","created_at":"2025-07-22 23:46:46","email":null,"phone_number":null,"address":null,"unit_price":"1500.00"}
+[23-Jul-2025 18:21:41 Europe/Berlin] Processed pet_age: (6–20 weeks)
+[23-Jul-2025 18:21:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[23-Jul-2025 18:21:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[23-Jul-2025 18:21:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[23-Jul-2025 18:21:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[23-Jul-2025 18:21:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[23-Jul-2025 18:21:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[23-Jul-2025 18:21:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[23-Jul-2025 18:21:41 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[23-Jul-2025 18:21:41 Europe/Berlin] PDF generation complete for order ID 24. Length: 200924
+[23-Jul-2025 18:21:41 Europe/Berlin] Notification inserted for user_id: 2
+[23-Jul-2025 18:25:07 Europe/Berlin] generate_bill.php started at 2025-07-23 18:25:07
+[23-Jul-2025 18:25:07 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[23-Jul-2025 18:25:07 Europe/Berlin] Database connection successful
+[23-Jul-2025 18:25:07 Europe/Berlin] Order data: {"id":28,"customer_id":null,"customer_name":"Basith","product_id":29,"product_name":"Mixed Ration Pellets","pet_type":"Goat","pet_age":"Adult Goat (1\u20137 years)","quantity":1,"amount":"7500.00","status":"Approved","created_at":"2025-07-23 21:54:44","email":null,"phone_number":null,"address":null,"unit_price":"7500.00"}
+[23-Jul-2025 18:25:07 Europe/Berlin] Processed pet_age: (1–7 years)
+[23-Jul-2025 18:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[23-Jul-2025 18:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[23-Jul-2025 18:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[23-Jul-2025 18:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[23-Jul-2025 18:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[23-Jul-2025 18:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[23-Jul-2025 18:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[23-Jul-2025 18:25:07 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[23-Jul-2025 18:25:07 Europe/Berlin] PDF generation complete for order ID 28. Length: 200932
+[23-Jul-2025 18:25:07 Europe/Berlin] Notification inserted for user_id: 2
+[23-Jul-2025 18:25:52 Europe/Berlin] generate_bill.php started at 2025-07-23 18:25:52
+[23-Jul-2025 18:25:52 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[23-Jul-2025 18:25:52 Europe/Berlin] Database connection successful
+[23-Jul-2025 18:25:52 Europe/Berlin] Order data: {"id":28,"customer_id":null,"customer_name":"Basith","product_id":29,"product_name":"Mixed Ration Pellets","pet_type":"Goat","pet_age":"Adult Goat (1\u20137 years)","quantity":1,"amount":"7500.00","status":"Approved","created_at":"2025-07-23 21:54:44","email":null,"phone_number":null,"address":null,"unit_price":"7500.00"}
+[23-Jul-2025 18:25:52 Europe/Berlin] Processed pet_age: (1–7 years)
+[23-Jul-2025 18:25:52 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[23-Jul-2025 18:25:52 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[23-Jul-2025 18:25:52 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[23-Jul-2025 18:25:52 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[23-Jul-2025 18:25:52 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[23-Jul-2025 18:25:52 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[23-Jul-2025 18:25:52 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[23-Jul-2025 18:25:52 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[23-Jul-2025 18:25:52 Europe/Berlin] PDF generation complete for order ID 28. Length: 200932
+[23-Jul-2025 18:25:52 Europe/Berlin] Notification inserted for user_id: 2
+[23-Jul-2025 18:26:04 Europe/Berlin] generate_bill.php started at 2025-07-23 18:26:04
+[23-Jul-2025 18:26:04 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[23-Jul-2025 18:26:04 Europe/Berlin] Database connection successful
+[23-Jul-2025 18:26:04 Europe/Berlin] Order data: {"id":28,"customer_id":null,"customer_name":"Basith","product_id":29,"product_name":"Mixed Ration Pellets","pet_type":"Goat","pet_age":"Adult Goat (1\u20137 years)","quantity":1,"amount":"7500.00","status":"Approved","created_at":"2025-07-23 21:54:44","email":null,"phone_number":null,"address":null,"unit_price":"7500.00"}
+[23-Jul-2025 18:26:04 Europe/Berlin] Processed pet_age: (1–7 years)
+[23-Jul-2025 18:26:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[23-Jul-2025 18:26:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[23-Jul-2025 18:26:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[23-Jul-2025 18:26:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[23-Jul-2025 18:26:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[23-Jul-2025 18:26:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[23-Jul-2025 18:26:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[23-Jul-2025 18:26:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[23-Jul-2025 18:26:04 Europe/Berlin] PDF generation complete for order ID 28. Length: 200932
+[23-Jul-2025 18:26:04 Europe/Berlin] Notification inserted for user_id: 2
+[23-Jul-2025 18:28:31 Europe/Berlin] generate_bill.php started at 2025-07-23 18:28:31
+[23-Jul-2025 18:28:31 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[23-Jul-2025 18:28:31 Europe/Berlin] Database connection successful
+[23-Jul-2025 18:28:31 Europe/Berlin] Order data: {"id":28,"customer_id":null,"customer_name":"Basith","product_id":29,"product_name":"Mixed Ration Pellets","pet_type":"Goat","pet_age":"Adult Goat (1\u20137 years)","quantity":1,"amount":"7500.00","status":"Approved","created_at":"2025-07-23 21:54:44","email":null,"phone_number":null,"address":null,"unit_price":"7500.00"}
+[23-Jul-2025 18:28:31 Europe/Berlin] Processed pet_age: (1–7 years)
+[23-Jul-2025 18:28:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[23-Jul-2025 18:28:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[23-Jul-2025 18:28:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[23-Jul-2025 18:28:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[23-Jul-2025 18:28:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[23-Jul-2025 18:28:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[23-Jul-2025 18:28:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[23-Jul-2025 18:28:31 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[23-Jul-2025 18:28:31 Europe/Berlin] PDF generation complete for order ID 28. Length: 200932
+[23-Jul-2025 18:28:31 Europe/Berlin] Notification inserted for user_id: 2
+[23-Jul-2025 18:42:43 Europe/Berlin] generate_bill.php started at 2025-07-23 18:42:43
+[23-Jul-2025 18:42:43 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[23-Jul-2025 18:42:43 Europe/Berlin] Database connection successful
+[23-Jul-2025 18:42:43 Europe/Berlin] Order data: {"id":28,"customer_id":null,"customer_name":"Basith","product_id":29,"product_name":"Mixed Ration Pellets","pet_type":"Goat","pet_age":"Adult Goat (1\u20137 years)","quantity":1,"amount":"7500.00","status":"Approved","created_at":"2025-07-23 21:54:44","email":null,"phone_number":null,"address":null,"unit_price":"7500.00"}
+[23-Jul-2025 18:42:43 Europe/Berlin] Processed pet_age: (1–7 years)
+[23-Jul-2025 18:42:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[23-Jul-2025 18:42:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[23-Jul-2025 18:42:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[23-Jul-2025 18:42:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[23-Jul-2025 18:42:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[23-Jul-2025 18:42:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[23-Jul-2025 18:42:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[23-Jul-2025 18:42:43 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[23-Jul-2025 18:42:43 Europe/Berlin] PDF generation complete for order ID 28. Length: 200932
+[23-Jul-2025 18:42:43 Europe/Berlin] Notification inserted for user_id: 2
+[27-Jul-2025 07:32:53 Europe/Berlin] generate_bill.php started at 2025-07-27 07:32:53
+[27-Jul-2025 07:32:53 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[27-Jul-2025 07:32:53 Europe/Berlin] Database connection successful
+[27-Jul-2025 07:32:53 Europe/Berlin] Order data: {"id":29,"customer_id":null,"customer_name":"Basith","product_id":5,"product_name":"Forage-Based Pellets (Cow\/Bull) ","pet_type":"Cow","pet_age":"Mature Cow\/Bull (2\u20138 years)","quantity":1,"amount":"6000.00","status":"Approved","created_at":"2025-07-27 11:02:32","email":null,"phone_number":null,"address":null,"unit_price":"6000.00"}
+[27-Jul-2025 07:32:53 Europe/Berlin] Input mismatch for Order ID 29. Expected: product_name=Forage-Based Pellets (Cow/Bull), amount=6000, customer_name=Basith. Got: {"id":29,"customer_id":null,"customer_name":"Basith","product_id":5,"product_name":"Forage-Based Pellets (Cow\/Bull) ","pet_type":"Cow","pet_age":"Mature Cow\/Bull (2\u20138 years)","quantity":1,"amount":"6000.00","status":"Approved","created_at":"2025-07-27 11:02:32","email":null,"phone_number":null,"address":null,"unit_price":"6000.00"}
+[27-Jul-2025 07:33:04 Europe/Berlin] generate_bill.php started at 2025-07-27 07:33:04
+[27-Jul-2025 07:33:04 Europe/Berlin] Database connection successful: 127.0.0.1:3306, saththar_feeds_db, script: /saththar_feeds/generate_bill.php
+[27-Jul-2025 07:33:04 Europe/Berlin] Database connection successful
+[27-Jul-2025 07:33:04 Europe/Berlin] Order data: {"id":28,"customer_id":null,"customer_name":"Basith","product_id":29,"product_name":"Mixed Ration Pellets","pet_type":"Goat","pet_age":"Adult Goat (1\u20137 years)","quantity":1,"amount":"7500.00","status":"Approved","created_at":"2025-07-23 21:54:44","email":null,"phone_number":null,"address":null,"unit_price":"7500.00"}
+[27-Jul-2025 07:33:04 Europe/Berlin] Processed pet_age: (1–7 years)
+[27-Jul-2025 07:33:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 235
+[27-Jul-2025 07:33:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 237
+[27-Jul-2025 07:33:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 239
+[27-Jul-2025 07:33:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 241
+[27-Jul-2025 07:33:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 288
+[27-Jul-2025 07:33:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 294
+[27-Jul-2025 07:33:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 295
+[27-Jul-2025 07:33:04 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\saththar_feeds\generate_bill.php on line 347
+[27-Jul-2025 07:33:04 Europe/Berlin] PDF generation complete for order ID 28. Length: 200932
+[27-Jul-2025 07:33:04 Europe/Berlin] Notification inserted for user_id: 2

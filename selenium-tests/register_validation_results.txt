@@ -1,0 +1,3 @@
+Empty Fields Test: PASS
+Invalid Email Format Test: PASS
+Mismatched Passwords Test: PASS

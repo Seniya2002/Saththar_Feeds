@@ -1,0 +1,1 @@
+Logout Test: PASS – Protected page redirected to login after logout.
